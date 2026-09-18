@@ -1,6 +1,6 @@
 # Olá! Eu sou a Stella 👋
 
-** Quality Assurance (QA) | Homologação de Sistemas | Projetos, Administração & Automação **
+** Quality Assurance (QA) | Homologação de Sistemas | Gestão de Projetos | Administração & Automação **
 
 Sou uma profissional direcionando minha expertise exclusivamente para a área de Quality Assurance (QA). Trago na bagagem 13 anos de experiência operacional e corporativa, atuando fortemente na homologação de sistemas, validação de regras de negócio e projetos críticos.
 
