@@ -1,6 +1,6 @@
 # Olá! Eu sou a Stella 👋
 
-**Quality Assurance (QA) Analyst | Homologação de Sistemas e Projetos | Estudando Automação**
+**Administração | Quality Assurance (QA) Analyst | Homologação de Sistemas e Projetos | Estudando Automação**
 
 Sou uma profissional direcionando minha expertise exclusivamente para a área de Quality Assurance (QA). Trago na bagagem 13 anos de experiência operacional e corporativa, atuando fortemente na homologação de sistemas, validação de regras de negócio e projetos críticos.
 
