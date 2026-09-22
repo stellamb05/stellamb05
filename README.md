@@ -17,9 +17,15 @@ Meu objetivo é garantir a qualidade de ponta a ponta na construção de softwar
 - **Versionamento:** Git | GitHub
 - **Processos & QA:** Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
 - **Soft Skills:** Resolução analítica de problemas | Maturidade corporativa | Comunicação clara entre times técnicos e de negócio
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Projetos em Destaque
 - Em elaboração
   
 ---
 📫 **Como falar comigo:** [Meu LinkedIn](https://www.linkedin.com/in/stella-batista)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stella-batista)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stella.mendes05@gmail.com)
