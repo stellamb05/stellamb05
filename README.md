@@ -7,8 +7,8 @@ Sou uma profissional direcionando minha expertise exclusivamente para a área de
 Uno a maturidade analítica já adquirida a uma genuína postura de aprendiz, com total flexibilidade e disposição para recomeçar do zero e agregar valor em qualquer nível de senioridade.
 
 ### 🎯 Objetivo
-- Garantir a qualidade de ponta a ponta na construção de softwares, unindo a visão crítica e detalhista do usuário final (UAT) com as melhores práticas de lógica de programação e automação.
-- Buscando minha primeira oportunidade 100% remota em QA Automation / Testes de Software.
+- Garantir a qualidade de ponta a ponta na construção de softwares e a melhor experiência para o usuário. Meu objetivo é unir a visão crítica e detalhista adquirida em anos de homologação (UAT) com as melhores práticas de lógica de programação e automação.
+- Buscando minha primeira oportunidade 100% remota em QA.
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
