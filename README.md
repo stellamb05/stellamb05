@@ -2,16 +2,26 @@
 
 ** Quality Assurance (QA) | Homologação de Sistemas | Gestão de Projetos | Administração & Automação **
 
-Sou uma profissional direcionando minha expertise exclusivamente para a área de Quality Assurance (QA). Trago na bagagem 13 anos de experiência operacional e corporativa, atuando fortemente na homologação de sistemas, validação de regras de negócio e projetos críticos.
+Sou uma profissional direcionando minha expertise exclusivamente para a área de Quality Assurance (QA). 
+Trago na bagagem 13 anos de experiência operacional e corporativa, atuando fortemente na homologação de sistemas, validação de regras de negócio e projetos críticos.
 
 Meu objetivo é garantir a qualidade de ponta a ponta na construção de softwares, unindo a visão crítica e detalhista do usuário final (UAT) com as melhores práticas de lógica de programação e automação.
 
 ### 🎯 O que estou fazendo agora
+- 🎓 Cursando segunda graduação em Administração (4º período no Centro Universitário IBMR).
 - Estruturando minha base técnica em **Lógica de Programação**.
 - Desenvolvendo scripts e testes lógicos com **JavaScript** e **Python**.
 - Construindo um portfólio focado na tradução de regras de negócio (BDD) para testes automatizados.
 - Buscando minha primeira oportunidade 100% remota em QA Automation / Testes de Software.
 
+### 📚 Formação e Certificações
+
+- 🎓 **Bacharelado em Administração** | Centro Universitário IBMR (Cursando - 4º período)
+- 🎓 **Graduada em Gestão de Seguros** |  [ENS - Escola Nacional de Negócios e Seguros]
+- 🎓 **Pós-graduada em Gestão de Resseguros** | [ENS - Escola Nacional de Negócios e Seguros]
+- 💻 **Lógica de Programação** | DIO - Digital Innovation One
+- 💻 **	Introdução à programação com Python** | [Santander Open Academy]
+- 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 - **Processos & QA:** Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
 - **Soft Skills:** Resolução analítica de problemas | Maturidade corporativa | Comunicação clara entre times técnicos e de negócio
