@@ -21,7 +21,7 @@ Uno a maturidade analítica já adquirida a uma genuína postura de aprendiz, co
 - 💻 **Introdução à programação com Python** | Santander Open Academy
 
 ### 📚 Formação 
-- 🎓 **Bacharelado em Administração** | Centro Universitário IBMR (Cursando - 4º período)
+- 🎓 **Bacharelado em Administração** | Centro Universitário IBMR (cursando o 4º período)
 - 🎓 **Pós-graduada em Gestão de Resseguros** | Escola Nacional de Negócios e Seguros (concluído em 2021)
 - 🎓 **Graduada em Gestão de Seguros** | Escola Nacional de Negócios e Seguros (concluído em 2020)
 
