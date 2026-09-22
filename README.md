@@ -17,10 +17,10 @@ Meu objetivo é garantir a qualidade de ponta a ponta na construção de softwar
 ### 📚 Formação e Certificações
 
 - 🎓 **Bacharelado em Administração** | Centro Universitário IBMR (Cursando - 4º período)
-- 🎓 **Graduada em Gestão de Seguros** |  [ENS - Escola Nacional de Negócios e Seguros]
-- 🎓 **Pós-graduada em Gestão de Resseguros** | [ENS - Escola Nacional de Negócios e Seguros]
+- 🎓 **Graduada em Gestão de Seguros** |  [Escola Nacional de Negócios e Seguros]
+- 🎓 **Pós-graduada em Gestão de Resseguros** | [Escola Nacional de Negócios e Seguros]
 - 💻 **Lógica de Programação** | DIO - Digital Innovation One
-- 💻 **	Introdução à programação com Python** | [Santander Open Academy]
+- 💻 **Introdução à programação com Python** | [Santander Open Academy]
 - 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 - **Processos & QA:** Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
