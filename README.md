@@ -26,9 +26,9 @@ Uno a maturidade analítica já adquirida a uma genuína postura de aprendiz, co
 - 🎓 **Graduada em Gestão de Seguros** | Escola Nacional de Negócios e Seguros (concluído em 2020)
 
 ### 🧠 Hard Skills 
-Gestão de Rotinas e Tempo | Orientação a Processos | Comunicação Assertiva | Atenção aos detalhes | Pensamento Analítico
-Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
-Resolução analítica de problemas | Maturidade corporativa | Comunicação clara entre times técnicos e de negócios
+- Gestão de Rotinas e Tempo | Orientação a Processos | Comunicação Assertiva | Atenção aos detalhes | Pensamento Analítico
+- Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
+- Resolução analítica de problemas | Maturidade corporativa | Comunicação clara entre times técnicos e de negócios
 
 ### 📊 Projetos em Destaque
 - Em elaboração
