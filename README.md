@@ -22,8 +22,8 @@ Uno a maturidade analítica já adquirida a uma genuína postura de aprendiz, co
 
 ### 📚 Formação 
 - 🎓 **Bacharelado em Administração** | Centro Universitário IBMR (cursando o 4º período)
-- 🎓 **Pós-graduada em Gestão de Resseguros** | Escola Nacional de Negócios e Seguros (concluído em 2021)
-- 🎓 **Graduada em Gestão de Seguros** | Escola Nacional de Negócios e Seguros (concluído em 2020)
+- 🎓 **Pós-graduada em Gestão de Resseguros** | Escola de Negócios e Seguros (concluído em 2021)
+- 🎓 **Graduada em Gestão de Seguros** | Escola de Negócios e Seguros (concluído em 2020)
 
 ### 🧠 Hard Skills 
 - Gestão de Rotinas e Tempo | Orientação a Processos | Comunicação Assertiva | Atenção aos detalhes | Pensamento Analítico
