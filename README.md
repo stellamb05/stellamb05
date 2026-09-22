@@ -8,20 +8,19 @@ Trago na bagagem 13 anos de experiência operacional e corporativa, atuando fort
 Meu objetivo é garantir a qualidade de ponta a ponta na construção de softwares, unindo a visão crítica e detalhista do usuário final (UAT) com as melhores práticas de lógica de programação e automação.
 
 ### 🎯 O que estou fazendo agora
-- 🎓 Cursando segunda graduação em Administração (4º período no Centro Universitário IBMR).
-- Estruturando minha base técnica em **Lógica de Programação**.
-- Desenvolvendo scripts e testes lógicos com **JavaScript** e **Python**.
 - Construindo um portfólio focado na tradução de regras de negócio (BDD) para testes automatizados.
 - Buscando minha primeira oportunidade 100% remota em QA Automation / Testes de Software.
 
-### 📚 Formação e Certificações
-
-- 🎓 **Bacharelado em Administração** | Centro Universitário IBMR (Cursando - 4º período)
-- 🎓 **Graduada em Gestão de Seguros** |  [Escola Nacional de Negócios e Seguros]
-- 🎓 **Pós-graduada em Gestão de Resseguros** | [Escola Nacional de Negócios e Seguros]
+### 📚 Certificações
 - 💻 **Lógica de Programação** | DIO - Digital Innovation One
-- 💻 **Introdução à programação com Python** | [Santander Open Academy]
-- 
+- 💻 **Introdução à programação com Python** | Santander Open Academy
+
+### 📚 Formação 
+- 🎓 **Bacharelado em Administração** | Centro Universitário IBMR (Cursando - 4º período)
+- 🎓 **Pós-graduada em Gestão de Resseguros** | Escola Nacional de Negócios e Seguros (concluído em 2021)
+- 🎓 **Graduada em Gestão de Seguros** | Escola Nacional de Negócios e Seguros (concluído em 2020)
+
+
 ### 🛠️ Minhas Ferramentas e Tecnologias
 - **Processos & QA:** Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
 - **Soft Skills:** Resolução analítica de problemas | Maturidade corporativa | Comunicação clara entre times técnicos e de negócio
