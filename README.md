@@ -2,7 +2,7 @@
 
 ** Quality Assurance (QA) | Homologação de Sistemas | Gestão de Projetos | Administração & Automação **
 
-###  Resumo Profissional
+### 👩‍💼 Resumo Profissional
 Sou uma profissional direcionando minha expertise exclusivamente para a área de Quality Assurance (QA). Trago na bagagem 13 anos de experiência operacional e corporativa, atuando fortemente na homologação de sistemas, validação de regras de negócio e projetos críticos.
 Uno a maturidade analítica já adquirida a uma genuína postura de aprendiz, com total flexibilidade e disposição para recomeçar do zero e agregar valor em qualquer nível de senioridade.
 
@@ -16,7 +16,7 @@ Uno a maturidade analítica já adquirida a uma genuína postura de aprendiz, co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📚 Certificações
+### 📜 Certificações
 - 💻 **Lógica de Programação** | DIO - Digital Innovation One
 - 💻 **Introdução à programação com Python** | Santander Open Academy
 
@@ -25,7 +25,8 @@ Uno a maturidade analítica já adquirida a uma genuína postura de aprendiz, co
 - 🎓 **Pós-graduada em Gestão de Resseguros** | Escola Nacional de Negócios e Seguros (concluído em 2021)
 - 🎓 **Graduada em Gestão de Seguros** | Escola Nacional de Negócios e Seguros (concluído em 2020)
 
-###  Hard Skills 
+### 🧠 Hard Skills 
+Gestão de Rotinas e Tempo | Orientação a Processos | Comunicação Assertiva | Atenção aos detalhes | Pensamento Analítico
 Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
 Resolução analítica de problemas | Maturidade corporativa | Comunicação clara entre times técnicos e de negócios
 
