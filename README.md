@@ -1,4 +1,4 @@
-# Olá! Eu sou a Stella ✨️
+# Olá!👋 Eu sou a Stella✨️
 
 ** Quality Assurance (QA) | Homologação de Sistemas | Gestão de Projetos | Administração & Automação **
 
