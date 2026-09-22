@@ -13,8 +13,6 @@ Meu objetivo é garantir a qualidade de ponta a ponta na construção de softwar
 - Buscando minha primeira oportunidade 100% remota em QA Automation / Testes de Software.
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
-- **Linguagens:** JavaScript | Python  
-- **Versionamento:** Git | GitHub
 - **Processos & QA:** Testes de Aceitação do Usuário (UAT) | Mapeamento de Bugs | Documentação de Processos | Metodologias Ágeis
 - **Soft Skills:** Resolução analítica de problemas | Maturidade corporativa | Comunicação clara entre times técnicos e de negócio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
